@@ -2,7 +2,7 @@
 
 
 # Identifying the most distressed counties in California, that require home insurance policy support and change
-- The notebook processes 100k+ structure damage records from 2017-2020 CA wildfires, pivoting by county and damage severity (e.g., Destroyed >50%: highest in Sonoma at 18,719, LA at 7,221, Butte at 3,231). Merges with historical fires (1910-2020) for mean acres burned (e.g., Ventura tops at 60k/7 fires) and count (Butte: 28 fires).
+- The notebook processes 100k+ structure damage records from 2025 CA wildfires, pivoting by county and damage severity (e.g., Destroyed >50%: highest in Sonoma at 18,719, LA at 7,221, Butte at 3,231). Merges with historical fires (1910-2020) for mean acres burned (e.g., Ventura tops at 60k/7 fires) and count (Butte: 28 fires).
 - Adds socioeconomic layers: insurance costs (highest in Riverside ~$2k/year), median income (lowest in rural like Modoc ~$45k), population (LA ~9.8M drives scale), FAIR Plan shifts (LA +20k policies 2019-2024 signals market exit).
 ## **Key Learnings:
 
