@@ -2,6 +2,10 @@
 ### Identifying the state's most vulnerable counties needing urgent home insurance policy reform.
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/68edc040-370d-4fd3-9feb-2c990808e6a9)
+<img width="1856" height="886" alt="image" src="https://github.com/user-attachments/assets/02bc93b8-d57a-4596-9604-34cdce3b1192" />
+<img width="567" height="395" alt="image" src="https://github.com/user-attachments/assets/62ba39d1-3fb6-4769-ae67-464743c92223" />
+
+
 
 ## 📖 Executive Summary
 In January 2025, catastrophic wildfires swept through California, exacerbating a growing crisis where climate disaster meets economic vulnerability. This project serves as a comprehensive data analysis of over **100,000 structure damage records**, cross-referencing recent devastation with a century of historical fire data (1910-2020), socioeconomic indicators, and home insurance market shifts. 
