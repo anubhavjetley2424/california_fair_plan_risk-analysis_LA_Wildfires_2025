@@ -13,6 +13,22 @@
   <img src="https://github.com/user-attachments/assets/62ba39d1-3fb6-4769-ae67-464743c92223" width="48%" />
 </div>
 
+<img width="1190" height="704" alt="image" src="https://github.com/user-attachments/assets/eeb50963-1ea5-476d-b7d5-cd190b96bc22" />
+<img width="1342" height="948" alt="image" src="https://github.com/user-attachments/assets/079be6db-bf23-423d-a6a8-977aa90015a8" />
+<img width="1194" height="710" alt="image" src="https://github.com/user-attachments/assets/27b5b9e6-475f-4594-b9ed-8465f3a924a7" />
+
+<img width="1442" height="728" alt="image" src="https://github.com/user-attachments/assets/b1d6ac8b-1f64-4127-9f13-6007bafac441" />
+
+<img width="1272" height="942" alt="image" src="https://github.com/user-attachments/assets/b465d226-957c-4d4b-ad42-b164a51d91d4" />
+<img width="1430" height="734" alt="image" src="https://github.com/user-attachments/assets/f552741c-38c5-4006-a421-0b6368757bf7" />
+
+<img width="1326" height="740" alt="image" src="https://github.com/user-attachments/assets/2f8bccb2-25dc-4c05-a8c1-d1620ccde4d1" />
+
+
+<img width="1808" height="690" alt="image" src="https://github.com/user-attachments/assets/e280b235-d351-4ec3-b83e-90dc5ab77142" />
+
+<img width="1262" height="738" alt="image" src="https://github.com/user-attachments/assets/5a835e67-8a25-4922-beed-110963bab7d6" />
+
 
 
 ## 📖 Executive Summary
