@@ -1,9 +1,17 @@
-# 🔥 California Wildfire & Insurance Distress Analysis
+<img width="1330" height="1502" alt="image" src="https://github.com/user-attachments/assets/ddda3210-e8f7-4592-8911-43338cf26620" /># 🔥 California Wildfire & Insurance Distress Analysis
 ### Identifying the state's most vulnerable counties needing urgent home insurance policy reform.
 
+# Project Dashboard
+
 ![Dashboard Preview](https://github.com/user-attachments/assets/68edc040-370d-4fd3-9feb-2c990808e6a9)
-<img width="1856" height="886" alt="image" src="https://github.com/user-attachments/assets/02bc93b8-d57a-4596-9604-34cdce3b1192" />
-<img width="567" height="395" alt="image" src="https://github.com/user-attachments/assets/62ba39d1-3fb6-4769-ae67-464743c92223" />
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/95265dca-0c6c-4f63-9569-0328dc0ba2d5" width="48%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/62ba39d1-3fb6-4769-ae67-464743c92223" width="48%" />
+</div>
 
 
 
