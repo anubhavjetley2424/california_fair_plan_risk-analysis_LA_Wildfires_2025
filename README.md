@@ -1,4 +1,4 @@
-<img width="1330" height="1502" alt="image" src="https://github.com/user-attachments/assets/ddda3210-e8f7-4592-8911-43338cf26620" /># 🔥 California Wildfire & Insurance Distress Analysis
+# 🔥 California Wildfire & Insurance Distress Analysis
 ### Identifying the state's most vulnerable counties needing urgent home insurance policy reform.
 
 # Project Dashboard
